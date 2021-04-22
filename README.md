@@ -7,3 +7,7 @@
  * Image Annotation Demo
 
 ![image-ann](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/Annotations.gif)
+
+* Landmark Detection Demo
+
+![land-mark](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/landmark-app.gif)
