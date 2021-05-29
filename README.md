@@ -15,3 +15,7 @@
 * [Edge Detection using OpenCV](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Edge-Detection-App/canny-edge-app.py)
 
 ![Edge](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Edge-Detection-App/edge-detection.gif)
+
+* [Cartooning Image using OpenCV](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Cartoon-Image-Application/cartoonApp.py)
+
+![Cartoon](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Cartoon-Image-Application/cartooning.gif)
