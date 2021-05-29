@@ -19,3 +19,7 @@
 * [Cartooning Image using OpenCV](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Cartoon-Image-Application/cartoonApp.py)
 
 ![Cartoon](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Cartoon-Image-Application/cartooning.gif)
+
+* [Image Resizing](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Resizing-OpenCV/imageResize.py)
+
+![Resize](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Resizing-OpenCV/ImageResize.gif)
