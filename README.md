@@ -11,3 +11,7 @@
 * Landmark Detection Demo
 
 ![land-mark](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/landmark-app.gif)
+
+* Edge Detection using OpenCV
+
+![Edge](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Edge-Detection-App/edge-detection.gif)
