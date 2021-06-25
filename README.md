@@ -6,7 +6,7 @@
  pip install --upgrade streamlit
  ```
  
- You can check out the  **Image Resize Application** you can check out from [here](https://share.streamlit.io/pavankunchala/image-resizing-streamlit/main/imageResize.py)
+ 
  
  * **Face Mesh Mediapipe**
 
