@@ -9,6 +9,11 @@
  You can check out the  **Image Resize Application** you can check out from [here](https://share.streamlit.io/pavankunchala/image-resizing-streamlit/main/imageResize.py)
  
  
+ * **Object Detection**
+
+![obj-gif](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/obj.gif)
+ 
+ 
  * [**Image Annotation Demo**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/image-annotation-app.py)
 
 ![image-ann](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/Annotations.gif)
