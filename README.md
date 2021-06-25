@@ -8,6 +8,10 @@
  
  You can check out the  **Image Resize Application** you can check out from [here](https://share.streamlit.io/pavankunchala/image-resizing-streamlit/main/imageResize.py)
  
+ * **Face Mesh Mediapipe**
+
+![mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/mediapipe.gif)
+ 
  
  * **Object Detection**
 
