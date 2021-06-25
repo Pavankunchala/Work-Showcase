@@ -12,6 +12,11 @@
  * **Object Detection**
 
 ![obj-gif](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/obj.gif)
+
+
+* [**Face Averaging**](https://github.com/Pavankunchala/Face-Averaging-App)
+
+![Face-Averaging](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/face-average.gif)
  
  
  * [**Image Annotation Demo**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/image-annotation-app.py)
