@@ -6,6 +6,10 @@
  pip install --upgrade streamlit
  ```
  
+ * **AI GYM Tracker**
+
+![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
+ 
  
  
  * **Face Mesh Mediapipe**
