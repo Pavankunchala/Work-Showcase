@@ -15,6 +15,10 @@
  * **Face Mesh Mediapipe**
 
 ![mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/mediapipe.gif)
+
+* **Face Recognition**
+
+![Face Recog](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/face.gif)
  
  
  * **Object Detection**
