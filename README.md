@@ -23,7 +23,7 @@
  
  * **Object Detection**
 
-![obj-gif](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/obj.gif)
+![obj-gif](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/newobj.gif)
 
 
 * [**Face Averaging**](https://github.com/Pavankunchala/Face-Averaging-App)
