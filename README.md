@@ -12,6 +12,10 @@
  * **AI GYM Tracker**
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
+
+* **Virtual Makeup**
+
+![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
  
  
  
