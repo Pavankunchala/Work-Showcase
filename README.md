@@ -6,6 +6,9 @@
  pip install --upgrade streamlit
  ```
  
+ I am always open for **Collabration** or **Freelancing** opportunites
+ If you want to use any of these applications for your own use cases you can mail me at [here](pavankunchalapk@gmail.com)
+ 
  * **AI GYM Tracker**
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
