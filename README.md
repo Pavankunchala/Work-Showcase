@@ -16,6 +16,10 @@
 * **Virtual Makeup**
 
 ![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
+
+* **Instance Segmentation**
+
+![instance](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/ezgif.com-gif-maker%20(3).gif)
  
  
  
