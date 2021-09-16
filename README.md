@@ -13,7 +13,7 @@
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
 
-* **Virtual Makeup**
+* [**Virtual Makeup**](https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py)
 
 ![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
 
