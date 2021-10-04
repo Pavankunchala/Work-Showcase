@@ -17,6 +17,10 @@
 
 ![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
 
+* [**Depth Estimation**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_streamlit-openvino-computervision-ugcPost-6850394967794417664-BpmU)
+
+![depth]((https://github.com/Pavankunchala/Streamlit-Applications/blob/master/depth-estim.gif))
+
 * **Instance Segmentation**
 
 ![instance](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/ezgif.com-gif-maker%20(3).gif)
