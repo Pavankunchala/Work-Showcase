@@ -13,6 +13,11 @@
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
 
+
+* **Custom Point Tracker**
+
+![custom point](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Both-Custom.gif)
+
 * [**Virtual Makeup**](https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py)
 
 ![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
