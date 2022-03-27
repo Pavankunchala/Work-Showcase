@@ -13,6 +13,11 @@
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
 
+* **Face Swapping**
+
+![face-swap](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Face-Swap.gif)
+
+
 
 * **Custom Point Tracker**
 
