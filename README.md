@@ -35,6 +35,10 @@
 
 ![S](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/depth-estim.gif)
 
+* [**Translation App**](https://share.streamlit.io/pavankunchala/translation-app/main/translation_app.py)
+
+![Translation App](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Trans-App.gif)
+
 * **Instance Segmentation**
 
 ![instance](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/ezgif.com-gif-maker%20(3).gif)
