@@ -13,6 +13,11 @@
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
 
+
+* **Instant Nerfs (NVDIA)**
+
+![instant nerf](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/toy-truck-instant%20nerf.gif)
+
 * **Face Swapping**
 
 ![face-swap](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Face-Swap.gif)
