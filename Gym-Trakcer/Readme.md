@@ -13,3 +13,7 @@
 *  **[Full body Angle Tracking](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_computervision-freelancing-deeplearning-activity-6907824555474444288-wZ9A?utm_source=linkedin_share&utm_medium=member_desktop_web)**
 
    ![pose](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Full%20body.gif)
+
+* **Custom Point Tracker**
+
+   ![custom](https://github.com/Pavankunchala/Work-Showcase/blob/master/Both-Custom.gif)
