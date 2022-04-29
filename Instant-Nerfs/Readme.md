@@ -6,3 +6,5 @@
 
 * Table Nerf - **[Demo](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_instantnerf-nvidia-ai-activity-6925130304340836352-wKOU?utm_source=linkedin_share&utm_medium=member_desktop_web)** 
 
+* Red Chair -**[Demo](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_nvidia-ai-artificialintelligence-activity-6924625475570991104-l3h1?utm_source=linkedin_share&utm_medium=member_desktop_web)**, **[Dataset](https://drive.google.com/file/d/1fQeZ2fNt6TpdZJdpMfu29620ct5bP4wE/view?usp=sharing)**
+
