@@ -2,8 +2,10 @@
  In this repo I share the demos of the projects I have worked on so far.
  My tech stack include **Deep Learning, Computer Vision and VR** 
  
- I have mostly used **Streamlit** for creating the UI for my projects 
+ I will be updating this repo as I proceed to learn and discover new technology 
  
+ I have mostly used **Streamlit** for creating the UI for my **deep learning projects** 
+
  You can install **Streamlit** using pip
  ```
  pip install --upgrade streamlit
