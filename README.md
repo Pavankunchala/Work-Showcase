@@ -32,11 +32,6 @@
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
 
-
-* **Custom Point Tracker**
-
-![custom point](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Both-Custom.gif)
-
 * [**Full Body Tracking**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_deeplearning-computervision-opencv-activity-6904116600149045248-kc0A)
 
 ![Full body](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Full%20body.gif)
