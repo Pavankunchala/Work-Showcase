@@ -6,6 +6,8 @@
  
  I have also created some custom dataset for **Instant Nerfs** you can check it out from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Instant-Nerfs)
  
+ I also worked on creating a **Fitness tracker application** you can know more about it from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
+ 
  I have mostly used **Streamlit** for creating the UI for my **deep learning projects** 
 
  You can install **Streamlit** using pip
