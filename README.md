@@ -1,5 +1,8 @@
-# Streamlit-Applications
- **Deep Learning** and **Computer Vision** Applications using **Streamlit**
+# My portfolio
+ In this repo I share the demos of the projects I have worked on so far.
+ My tech stack include **Deep Learning, Computer Vision and VR** 
+ 
+ I have mostly used **Streamlit** for creating the UI for my projects 
  
  You can install **Streamlit** using pip
  ```
@@ -7,7 +10,7 @@
  ```
  
  I am always open for **Collabration** or **Freelancing** opportunites
- If you want to use any of these applications for your own use cases you can mail me at [here](pavankunchalapk@gmail.com)
+ If you want to use any of these applications for your own use cases you can mail me at [pavankunchalapk@gmail.com](pavankunchalapk@gmail.com)
  
  * **AI GYM Tracker**
 
