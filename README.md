@@ -12,7 +12,7 @@
  I am always open for **Collabration** or **Freelancing** opportunites
  If you want to use any of these applications for your own use cases you can mail me at [pavankunchalapk@gmail.com](pavankunchalapk@gmail.com)
  
- * **AI GYM Tracker**
+ * [**AI GYM Tracker**](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
 
