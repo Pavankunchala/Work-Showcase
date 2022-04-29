@@ -29,7 +29,7 @@
 
 * **Face Swapping**
 
-![face-swap](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Face-Swap.gif)
+![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
 
 
