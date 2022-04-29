@@ -4,3 +4,5 @@
 
 * Statue Nerf - **[Demo](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_instantngp-nvidia-ai-activity-6923367465410334720-6c1H?utm_source=linkedin_share&utm_medium=member_desktop_web)**, **[Dataset](https://drive.google.com/file/d/13mSKSRCVKXsvCxsemSZjB4jk8W06mKa0/view?usp=sharing)**
 
+* Table Nerf - **[Demo](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_instantnerf-nvidia-ai-activity-6925130304340836352-wKOU?utm_source=linkedin_share&utm_medium=member_desktop_web)** 
+
