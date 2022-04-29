@@ -36,6 +36,10 @@
 
 ![Full body](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Full%20body.gif)
 
+* **Hand Gesture Recogntion**
+
+    ![hg](https://github.com/Pavankunchala/Work-Showcase/blob/master/Gesture-Gif.gif)
+
 * [**Virtual Makeup**](https://share.streamlit.io/pavankunchala/virtual_makeup_streamlit/main/app.py)
 
 ![makeup](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Makeup.gif)
