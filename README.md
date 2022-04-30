@@ -8,6 +8,8 @@
  
  I also worked on creating a **Fitness tracker application** you can know more about it from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
  
+ You can also check some of my previous work from [here](https://github.com/Pavankunchala/Project_Showcase)
+ 
  I have mostly used **Streamlit** for creating the UI for my **deep learning projects** 
 
  You can install **Streamlit** using pip
