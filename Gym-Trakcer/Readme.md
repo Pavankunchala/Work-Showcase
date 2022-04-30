@@ -17,3 +17,8 @@
 * **Custom Point Tracker**
 
    ![custom](https://github.com/Pavankunchala/Work-Showcase/blob/master/Both-Custom.gif)
+   
+   
+ * **Rep Counting**
+
+      ![rep](https://github.com/Pavankunchala/Work-Showcase/blob/master/Gym-Trakcer/waist.gif)
