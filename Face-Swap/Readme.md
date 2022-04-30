@@ -1,6 +1,6 @@
 # Face Swap Algortihms
 
-* For the inital demo I have used SimpSwap algortihm for the following results
+* I have mainly used SimpSwap Algorithm for the faceswap demos, you can learn more about **SimpSwap** from [here](https://github.com/neuralchen/SimSwap)
 
 * **Black Widow Demo**
 
