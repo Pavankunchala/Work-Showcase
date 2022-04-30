@@ -36,6 +36,10 @@
 
 ![Full body](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Full%20body.gif)
 
+* **3D Pose Estimation
+
+   ![3d](https://github.com/Pavankunchala/Work-Showcase/blob/master/3D-PoseEstimation-Gif.gif)
+
 * **Hand Gesture Recogntion**
 
     ![hg](https://github.com/Pavankunchala/Work-Showcase/blob/master/Gesture-Gif.gif)
