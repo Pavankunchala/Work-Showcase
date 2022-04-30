@@ -18,6 +18,9 @@
  I am always open for **Collabration** or **Freelancing** opportunites
  If you want to use any of these applications for your own use cases you can mail me at [pavankunchalapk@gmail.com](pavankunchalapk@gmail.com)
  
+ 
+ You can check out my **Resume** from [here](https://drive.google.com/file/d/1u2KTL8JRu2hkV8jU56y76TIKB582HopS/view?usp=sharing) 
+ 
  * [**AI GYM Tracker**](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
 
 ![pose-mediapipe](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/pose.gif)
