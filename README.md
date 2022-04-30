@@ -27,7 +27,7 @@
 
 ![instant nerf](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/toy-truck-instant%20nerf.gif)
 
-* **Face Swapping**
+* [**Face Swapping**](https://github.com/Pavankunchala/Work-Showcase/tree/master/Face-Swap)
 
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
