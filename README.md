@@ -41,6 +41,10 @@
 
 ![Full body](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Full%20body.gif)
 
+* [**Image Inpainting**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_computervision-deeplearning-freelancing-activity-6929703369620029441-OoYi?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+![lama](https://github.com/Pavankunchala/Work-Showcase/blob/master/lama%20Gif.gif)
+
 * **3D Pose Estimation**
 
    ![3d](https://github.com/Pavankunchala/Work-Showcase/blob/master/3D-PoseEstimation-Gif.gif)
@@ -104,6 +108,4 @@
 
 ![Cartoon](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Cartoon-Image-Application/cartooning.gif)
 
-* [**Image Resizing**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Resizing-OpenCV/imageResize.py)
 
-![Resize](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Resizing-OpenCV/ImageResize.gif)
