@@ -36,6 +36,9 @@
 
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
+* [**Tree And Moon-NFTs(generated using AI)**](https://opensea.io/collection/tree-and-moon)
+
+  ![trem](https://github.com/Pavankunchala/Work-Showcase/blob/master/TreeNDMoon%20NFT%20Gif.gif)
 
 * [**Full Body Tracking**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_deeplearning-computervision-opencv-activity-6904116600149045248-kc0A)
 
@@ -104,8 +107,5 @@
 
 ![land-mark](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/landmark-app.gif)
 
-* [**Edge Detection using OpenCV**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Edge-Detection-App/canny-edge-app.py)
-
-![Edge](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Edge-Detection-App/edge-detection.gif)
 
 
