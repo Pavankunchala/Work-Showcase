@@ -55,6 +55,10 @@
 * **Gesture Control VR**
 
   ![Gesture](https://github.com/Pavankunchala/Work-Showcase/blob/master/Gesture%20Recog.gif)
+  
+* **3D Avatar GIF**
+
+![avatar](https://github.com/Pavankunchala/Work-Showcase/blob/master/3d-avatar%20Pavan.gif)
 
 * **Hand Gesture Recogntion**
 
@@ -102,10 +106,6 @@
  * [**Image Annotation Demo**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/image-annotation-app.py)
 
 ![image-ann](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/Annotations.gif)
-
-* [**Landmark Detection Demo**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Landmark-application/landmark-app.py)
-
-![land-mark](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/landmark-app.gif)
 
 
 
