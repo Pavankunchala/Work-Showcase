@@ -13,8 +13,8 @@
 
 * Bench Press - [**Demo**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_instantnerfs-nvidia-ai-activity-6926232356726992896-oCc5?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-**Slide**
+**Slide** - [**3D OBJ**](https://drive.google.com/file/d/1hOzPzqZ-bLR-XLxIKJJJRJYDKcLPJDvX/view?usp=sharing)
 
 
-![pose-mediapipe](https://github.com/Pavankunchala/Work-Showcase/blob/master/Slide%20Gif.gif)
+![slide](https://github.com/Pavankunchala/Work-Showcase/blob/master/Slide%20Gif.gif)
 
