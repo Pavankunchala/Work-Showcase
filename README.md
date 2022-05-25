@@ -36,7 +36,7 @@
 
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
-* [**Cyborg-Panda**]()
+* [**Cyborg-Panda**](https://opensea.io/collection/cyborg-panda-1)
 
 ![panda](https://github.com/Pavankunchala/Work-Showcase/blob/master/CyborgPanda%20NFT%20Gif.gif)
 
