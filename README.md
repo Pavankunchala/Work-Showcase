@@ -36,6 +36,10 @@
 
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
+* [**Cyborg-Panda**]()
+
+![panda](https://github.com/Pavankunchala/Work-Showcase/blob/master/CyborgPanda%20NFT%20Gif.gif)
+
 * [**Tree And Moon-NFTs(generated using AI)**](https://opensea.io/collection/tree-and-moon)
 
   ![trem](https://github.com/Pavankunchala/Work-Showcase/blob/master/TreeNDMoon%20NFT%20Gif.gif)
@@ -103,9 +107,4 @@
 ![Face-Averaging](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/face-average.gif)
  
  
- * [**Image Annotation Demo**](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/image-annotation-app.py)
-
-![image-ann](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Image-Annotation-Application/Annotations.gif)
-
-
-
+ 
