@@ -30,7 +30,7 @@
 
 * **[Instant Nerfs (NVDIA)](https://github.com/Pavankunchala/Streamlit-Applications/tree/master/Instant-Nerfs)**
 
-![instant nerf](https://github.com/Pavankunchala/-Showcase/blob/master/extractedOBJ.gif)
+![instant nerf](https://github.com/Pavankunchala/Work-Showcase/blob/master/extractedOBJ.gif)
 
 * [**Face Swapping**](https://github.com/Pavankunchala/Work-Showcase/tree/master/Face-Swap)
 
