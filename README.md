@@ -4,6 +4,8 @@
  
  I will be updating this repo as I proceed to learn and discover new technology 
  
+ You can check out all the **NFTS** I created from **[here](https://github.com/Pavankunchala/Work-Showcase/tree/master/NFTS)**
+ 
  I have also created some custom dataset for **Instant Nerfs** you can check it out from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Instant-Nerfs)
  
  I also worked on creating a **Fitness tracker application** you can know more about it from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
