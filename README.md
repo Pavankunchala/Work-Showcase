@@ -8,6 +8,8 @@
  
  I have also created some custom dataset for **Instant Nerfs** you can check it out from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Instant-Nerfs)
  
+ I am generating a lot of new **AI ART** which you can check from [here](https://www.behance.net/pavankunchala)
+ 
  I also worked on creating a **Fitness tracker application** you can know more about it from [here](https://github.com/Pavankunchala/Work-Showcase/tree/master/Gym-Trakcer)
  
  You can also check some of my previous work from [here](https://github.com/Pavankunchala/Project_Showcase)
