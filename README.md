@@ -44,9 +44,9 @@
 
 ![face-swap](https://github.com/Pavankunchala/Work-Showcase/blob/master/Pavan-FaceSwap.gif)
 
-* [**Cyborg-Panda**](https://opensea.io/collection/cyborg-panda-1)
+* [**Void-Art**](https://opensea.io/collection/void-art-1)
 
-![panda](https://github.com/Pavankunchala/Work-Showcase/blob/master/CyborgPanda%20NFT%20Gif.gif)
+![panda](https://github.com/Pavankunchala/Work-Showcase/blob/master/NFTS/butterfly-nft.gif)
 
 * [**Full Body Tracking**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_deeplearning-computervision-opencv-activity-6904116600149045248-kc0A)
 
@@ -79,10 +79,6 @@
 * [**Depth Estimation**](https://www.linkedin.com/posts/pavan-kumar-reddy-kunchala_streamlit-openvino-computervision-ugcPost-6850394967794417664-BpmU)
 
 ![S](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/depth-estim.gif)
-
-* [**Translation App**](https://share.streamlit.io/pavankunchala/translation-app/main/translation_app.py)
-
-![Translation App](https://github.com/Pavankunchala/Streamlit-Applications/blob/master/Trans-App.gif)
 
 * **Instance Segmentation**
 
