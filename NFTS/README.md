@@ -1,6 +1,6 @@
 # NFTS
 
-* I have used AI algorithms like **Dalle E** and **VQGAN** for generating this art
+* I have used AI algorithms like **Dalle E**, **VQGAN** and many more  for generating this art
 * You can check out all of my collection from **[here](https://opensea.io/ordinaryArtisst)**
 
 * **[Cyborg Panda](https://opensea.io/collection/cyborg-panda-1)**
